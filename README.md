@@ -4,6 +4,11 @@ Welcome to the OSS MLOps Platform, a comprehensive suite designed to streamline 
 
 ![logos.png](resources/img/logos.png)
 
+### ⚠️ Notice: This Repository is No Longer Maintained ⚠️
+
+This repository is a **fork** of the original [oss-mlops-platform](https://github.com/OSS-MLOPS-PLATFORM/oss-mlops-platform), which is actively maintained and under development.  
+**Please note:** This fork is **no longer maintained** and may be outdated. For the latest updates, bug fixes, and new features, please refer to the [oss-mlops-platform](https://github.com/OSS-MLOPS-PLATFORM/oss-mlops-platform).
+
 ## Overview of Project Structure
 
 - **Setup Scripts**
